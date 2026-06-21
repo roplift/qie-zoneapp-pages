@@ -1,2 +1,14 @@
 # qie-zoneapp-pages
-HTML page archive and documentation
+
+静态页面保存仓库
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 内容记录
+
+- 页面文件会逐步增加
+- 仓库说明会随配置保持更新
+
+## 访问说明
+
+如果启用了 GitHub Pages，页面可通过对应 Pages 地址访问。
